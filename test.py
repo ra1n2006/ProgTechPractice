@@ -1,5 +1,5 @@
 print("Hello world")
 a = int(input("введите число"))
 b = int(input("введите число 2"))
-c = input("введите операцию")
+c = "-"
 print(eval(str(a)+c+str(b)))
